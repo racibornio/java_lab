@@ -1,4 +1,4 @@
-package pl.patryk.jipp.lab.sem3;
+package pl.patryk.jipp.lab.lab1;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Z2_QuadraticEquation {
+public class Lab1_Z2_QuadraticEquation {
 
     private int a, b, c;
     private String filePath = "/Users/user/squareequation.txt";

@@ -1,9 +1,9 @@
-package pl.patryk.jipp.lab.sem3;
+package pl.patryk.jipp.lab.lab1;
 
 import java.lang.Math;
 import java.io.*;
 
-public class Z1 {
+public class Lab1_Z1 {
     public static void main(String[] args) throws IOException {
         final double PI = Math.PI;
         System.out.println(PI);
